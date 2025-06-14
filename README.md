@@ -1,4 +1,5 @@
-# Copy Data using Spectre.Console
+# Copy Data using ADO.NET and Spectre.Console
 + Spectre.Console
 + ADO.NET
-+ Copy data with Table Order
++ SQL Server Tables
++ Copy data with Table Ordered
